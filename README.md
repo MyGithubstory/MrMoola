@@ -58,7 +58,7 @@ My journey in computers and networking has led me to develop a passion for Infra
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Microsoft Certified Azure Administrator Associate-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft Certified Azure Administrator Associate-FF0000?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
@@ -66,7 +66,7 @@ My journey in computers and networking has led me to develop a passion for Infra
 </div>
 
 ## Projects
-- Suburban Rail Loop Authority Project - Onsite Support
+- Suburban Rail Loop Authority Project (SRLA) - Onsite Support
 - DELWP to DEECA MOG Project - Floor Support
 
 # PROJECTNAME
