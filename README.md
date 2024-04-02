@@ -39,6 +39,10 @@ My journey in computers and networking has led me to develop a passion for Infra
     <img src="https://img.shields.io/badge/-ServiceNow Reporting-777BB4?&style=for-the-badge&logo=ServiceNow Reporting&logoColor=white" />
 </div>
 
+- Genesys is an inbound call centre software for Service Center that maximises the success of every voice interaction and meets service levels more effectively
+- The RSA Authentication Manager Console software verifies the user's identity for authentication requests and centrally administers authentication policies for the organizations' end users.
+- ServiceNow Reporting enables you to create and distribute reports that show the current state of instances data, such as the Delevery Managers Monthly Reporting Dashboard Reports various incidents and tasksss of various criteria.
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -54,7 +58,7 @@ My journey in computers and networking has led me to develop a passion for Infra
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft Certified Azure Administrator Associate-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
