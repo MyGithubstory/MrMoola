@@ -24,19 +24,19 @@ My journey in computers and networking has led me to develop a passion for Infra
 
 ## Core Technologies
 
-| Windows 7 – 11 | Knowledge on Windows Server Technologies | Remote(WVD) Support |
-| Terminal services | Software Deployment | SOE Imaging | PC Hardware Troubleshooting |
-| Application Support | Switching and Routing | IT Security | Encryption Management |
-| RDP provisioning | SCCM | IP telephony | Printers/Copiers/Scanners | Rack and Stack |
-| Patching | Network Storage | Active Directory | DHCP | Azure manage |
-| User Provisioning using PowerShell scripts | Desk Phone, Mobile Device Management (iOS and Android devices) |
-| O365 Exchange Management | Cameras and Intercom units | Video Conferencing |
+- | Windows 7 – 11 | Knowledge on Windows Server Technologies | Remote(WVD) Support |
+- | Terminal services | Software Deployment | SOE Imaging | PC Hardware Troubleshooting |
+- | Application Support | Switching and Routing | IT Security | Encryption Management |
+- | RDP provisioning | SCCM | IP telephony | Printers/Copiers/Scanners | Rack and Stack |
+- | Patching | Network Storage | Active Directory | DHCP | Azure manage |
+- | User Provisioning using PowerShell scripts | Desk Phone, Mobile Device Management (iOS and Android devices) |
+- | O365 Exchange Management | Cameras and Intercom units | Video Conferencing |
 
 ### Tools Used
 <div>
     <img src="https://img.shields.io/badge/-Genesys-1679A7?&style=for-the-badge&logo=Genesys&logoColor=white" />
     <img src="https://img.shields.io/badge/-RSA Admin Console-EF3B2D?&style=for-the-badge&logo=RSA Admin Console&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Service-Now Dashboard Reporting-777BB4?&style=for-the-badge&logo=Service-Now Dashboard Reporting&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Service-Now Reporting-777BB4?&style=for-the-badge&logo=Service-Now Reporting&logoColor=white" />
 </div>
 
 ### Endpoint
