@@ -10,27 +10,33 @@ My journey in computers and networking has led me to develop a passion for Infra
 
 ## Key Skills Learned
 
-I possess a wide range of skills in systems installation, configuration, upgrading and maintenance.
-I am committed to fining innovative solutions to a variety of IT problems, such as application support and technical troubleshooting.
-I became a trusted resource for the sites through high-level problem-solving skills.
-I can offer clients in your organization exemplary support with network administration, effective project management and increased system performance.
-High-level relationship building and management capabilities, with the capacity to engage positively with key internal and external stakeholders.
-Excellent support skills, including Windows Server troubleshooting and installation, building PCs, and troubleshooting hardware and software issues.
-Well-developed communication skills with an ability to adapt communication style to suit technical and non-technical audiences.
-A passion for technology backed by an extensive knowledge of infrastructure with a commitment to ongoing professional development.
-Strong work ethic as well, as well-developed time management and prioritisation skills with the ability to work effectively under pressure.
-Ability to apply critical thinking to issue resolution combined with strong analytical skills.
-Equally comfortable working autonomously and within a collaborative team structure.
+- I possess a wide range of skills in systems installation, configuration, upgrading and maintenance.
+- I am committed to fining innovative solutions to a variety of IT problems, such as application support and technical troubleshooting.
+- I became a trusted resource for the sites through high-level problem-solving skills.
+- I can offer clients in your organization exemplary support with network administration, effective project management and increased system performance.
+- High-level relationship building and management capabilities, with the capacity to engage positively with key internal and external stakeholders.
+- Excellent support skills, including Windows Server troubleshooting and installation, building PCs, and troubleshooting hardware and software issues.
+- Well-developed communication skills with an ability to adapt communication style to suit technical and non-technical audiences.
+- A passion for technology backed by an extensive knowledge of infrastructure with a commitment to ongoing professional development.
+- Strong work ethic as well, as well-developed time management and prioritisation skills with the ability to work effectively under pressure.
+- Ability to apply critical thinking to issue resolution combined with strong analytical skills.
+- Equally comfortable working autonomously and within a collaborative team structure.
 
 ## Core Technologies
 
-Windows 7 – 11 | Knowledge on Windows Server Technologies | Remote(WVD) Support | Terminal services | Software Deployment | SOE Imaging | PC Hardware Troubleshooting | Application Support | Switching and Routing | IT Security | Encryption Management | RDP provisioning | SCCM | IP telephony | Printers/Copiers/Scanners | Rack and Stack | Patching | Network Storage | Active Directory | DHCP | Azure manage | User Provisioning using PowerShell scripts | Desk Phone, Mobile Device Management (iOS and Android devices) | O365 Exchange Management | Cameras and Intercom units | Video Conferencing
+| Windows 7 – 11 | Knowledge on Windows Server Technologies | Remote(WVD) Support |
+| Terminal services | Software Deployment | SOE Imaging | PC Hardware Troubleshooting |
+| Application Support | Switching and Routing | IT Security | Encryption Management |
+| RDP provisioning | SCCM | IP telephony | Printers/Copiers/Scanners | Rack and Stack |
+| Patching | Network Storage | Active Directory | DHCP | Azure manage |
+| User Provisioning using PowerShell scripts | Desk Phone, Mobile Device Management (iOS and Android devices) |
+| O365 Exchange Management | Cameras and Intercom units | Video Conferencing |
 
-### Network
+### Tools Used
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Genesys-1679A7?&style=for-the-badge&logo=Genesys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-RSA Admin Console-EF3B2D?&style=for-the-badge&logo=RSA Admin Console&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Service-Now Dashboard Reporting-777BB4?&style=for-the-badge&logo=Service-Now Dashboard Reporting&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -47,7 +53,6 @@ Windows 7 – 11 | Knowledge on Windows Server Technologies | Remote(WVD) Suppor
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -57,12 +62,12 @@ Windows 7 – 11 | Knowledge on Windows Server Technologies | Remote(WVD) Suppor
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Suburban Rail Loop Authority Project - Onsite Support
+- DELWP to DEECA MOG Project - Floor Support
+
 # PROJECTNAME
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
