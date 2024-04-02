@@ -1,29 +1,30 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm SANDEEP MOOLA
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+A motivated and highly capable IT Support Professional, I have several years of industry experience supporting complex ICT Infrastructure. I am currently employed in a 24-month fixed term role with Cenitex as Field and Remote Support Analyst. I have a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I have acquired strong knowledge of desktop hardware, operating systems, and networking technologies. With significant knowledge of and the ability to identify customer requirements, I am highly capable in the provision of innovative solutions to enhance performance or resolve issues. I am highly agile in my approach and adapt readily to changing business goals and expected outcomes. With excellent interpersonal and communication skills, I can engage confidently with a diverse range of stakeholders to facilitate collaborative technical partnerships.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+My journey in computers and networking has led me to develop a passion for Infrastructure and Cloud technologies, and I am now eager to advance further in his field, specifically aiming to deliver more as an Engineer.
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## Key Skills Learned
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+I possess a wide range of skills in systems installation, configuration, upgrading and maintenance.
+I am committed to fining innovative solutions to a variety of IT problems, such as application support and technical troubleshooting.
+I became a trusted resource for the sites through high-level problem-solving skills.
+I can offer clients in your organization exemplary support with network administration, effective project management and increased system performance.
+High-level relationship building and management capabilities, with the capacity to engage positively with key internal and external stakeholders.
+Excellent support skills, including Windows Server troubleshooting and installation, building PCs, and troubleshooting hardware and software issues.
+Well-developed communication skills with an ability to adapt communication style to suit technical and non-technical audiences.
+A passion for technology backed by an extensive knowledge of infrastructure with a commitment to ongoing professional development.
+Strong work ethic as well, as well-developed time management and prioritisation skills with the ability to work effectively under pressure.
+Ability to apply critical thinking to issue resolution combined with strong analytical skills.
+Equally comfortable working autonomously and within a collaborative team structure.
+
+## Core Technologies
+
+Windows 7 – 11 | Knowledge on Windows Server Technologies | Remote(WVD) Support | Terminal services | Software Deployment | SOE Imaging | PC Hardware Troubleshooting | Application Support | Switching and Routing | IT Security | Encryption Management | RDP provisioning | SCCM | IP telephony | Printers/Copiers/Scanners | Rack and Stack | Patching | Network Storage | Active Directory | DHCP | Azure manage | User Provisioning using PowerShell scripts | Desk Phone, Mobile Device Management (iOS and Android devices) | O365 Exchange Management | Cameras and Intercom units | Video Conferencing
 
 ### Network
 <div>
