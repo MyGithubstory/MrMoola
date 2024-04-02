@@ -36,7 +36,7 @@ My journey in computers and networking has led me to develop a passion for Infra
 <div>
     <img src="https://img.shields.io/badge/-Genesys-1679A7?&style=for-the-badge&logo=Genesys&logoColor=white" />
     <img src="https://img.shields.io/badge/-RSA Admin Console-EF3B2D?&style=for-the-badge&logo=RSA Admin Console&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Service-Now Reporting-777BB4?&style=for-the-badge&logo=Service-Now Reporting&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ServiceNow Reporting-777BB4?&style=for-the-badge&logo=ServiceNow Reporting&logoColor=white" />
 </div>
 
 ### Endpoint
